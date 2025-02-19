@@ -4,7 +4,7 @@
 
 <h2>Features</h2>
 <ul>
-  <li><span style="font-weight:bold">Authentication</span>sss</li>
+  <li><b>Authentication:</b> Hello</li>
   <li></li>
   <li></li>
   <li></li>
