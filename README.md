@@ -65,4 +65,4 @@ Live Demo <a scr="https://cabin-haven.vercel.app/">https://cabin-haven.vercel.ap
 <img src="/public/screenshots/mobile/8.png"/>
 </div>
 
-<p>Feel free to explore, provide feedback, or contribute! Your support means a lot, and I'm looking forward to any suggestions or improvements you might have. </p>
+<b>Feel free to explore, provide feedback, or contribute! Your support means a lot, and I'm looking forward to any suggestions or improvements you have. </bs>
