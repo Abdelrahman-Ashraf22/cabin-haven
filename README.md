@@ -4,10 +4,19 @@
 
 <h2>Features</h2>
 <ul>
-  <li><b>Authentication:</b> Hello</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><b>Authentication:</b> A secure login and authentication system for users.</li>
+  <li><b>Bookings Management:</b> Easily create, update, and delete bookings.</li>
+  <li><b>Real-Time Booking Validation:</b> Validate bookings to prevent overbooking.</li>
+  <li><b>Guest Management:</b> Register guests within the system for easier management and access.</li>
+  <li><b>Guest Check-In and Check-Out:</b> Streamline the check-in and check-out processes for guests.</li>
+  <li><b>Cabin Management:</b> Oversee cabin details and information.</li>
+  <li><b>Dashboard:</b> Visualize sales and booking data through intuitive charts and analytics.</li>
+  <li><b>System Settings:</b> Configure and customize system settings to align with your business needs.</li>
+  <li><b>Dark Mode Support:</b> Enable dark mode for a more comfortable user experience.</li>
+  <li><b>Filtering and Sorting:</b> Filter and sort data to quickly locate information.</li>
+  <li><b>User Feedback:</b> Keep users informed with lightweight and attractive notifications.</li>
+  <li><b>User-Friendly Interface:</b> Designed for easy and intuitive navigation.</li>
+  <li><b>Reset Password:</b> A secure and user-friendly option for resetting passwords.</li>
 </ul>
+
+<h2>Overview</h2>
