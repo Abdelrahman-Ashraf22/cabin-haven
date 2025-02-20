@@ -65,4 +65,4 @@ Live Demo <a scr="https://cabin-haven.vercel.app/">https://cabin-haven.vercel.ap
 <img src="/public/screenshots/mobile/8.png"/>
 </div>
 
-<p>All rights reserved &copy; 2025</p>
+<p>Feel free to explore, provide feedback, or contribute! Your support means a lot, and I'm looking forward to any suggestions or improvements you might have. </p>
