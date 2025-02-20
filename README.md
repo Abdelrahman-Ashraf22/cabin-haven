@@ -37,6 +37,6 @@
 </ol>
 
 <div>
-<img src="/public/desktop/1.png"/>
+<img src="/public/screenshots/desktop/1.png"/>
   
 </div>
