@@ -21,8 +21,18 @@
 
 <h2>Overview</h2>
 <ol list-type="1">
-<li></li>
-<li></li>
-<li></li>
-  
+<li><b>RESTful API Integration:</b> Seamlessly connect to RESTful APIs to manage both server state and global state.</li>
+<li><b>Supabase:</b> This is a powerful open-source alternative to Firebase, providing a suite of tools designed to build and scale applications.</li>
+<li><b>Tanstack React Query:</b> This library manages global state and server state, offering seamless integration with RESTful APIs, especially when connecting to Supabase.</li>
+<li><b>React Hook Form:</b> An efficient library for managing form state, validations, and submissions.</li>
+<li><b>React Router:</b> Use React Router for effortless navigation between different pages in your application.</li>
+<li><b>Styled Components:</b> A solution for CSS in JS that provides flexible and scalable styling options.</li>
+<li><b>Error Boundary:</b> A feature that allows you to catch errors that may occur anywhere in the child component tree.</li>
+<li><b>Recharts:</b> A composable charting library built on React components, making it easy to create graphs and visualizations.</li>
+<li><b>Reusable Components:</b> Components are designed with reusability in mind, allowing for easy integration and adaptation throughout the application.</li>
+<li><b>Compound Components:</b> A design pattern for building more complex user interfaces, such as modals and tables.</li>
+<li><b>Custom Hooks:</b> Create custom hooks to manage state and logic consistently across your application.</li>  
+  <li><b>Responsive Design</b> A fully responsive design approach ensures compatibility across various devices.
+</li>
+  <li><b>Framer Motion:</b> A library used to add animations, enhancing the user experience.</li>
 </ol>
