@@ -37,6 +37,15 @@
 </ol>
 
 <div>
+  <h3>Visual presentation</h3>
 <img src="/public/screenshots/desktop/1.png"/>
+<img src="/public/screenshots/desktop/2.png"/>
+<img src="/public/screenshots/desktop/3.png"/>
+<img src="/public/screenshots/desktop/4.png"/>
+<img src="/public/screenshots/desktop/5.png"/>
+<img src="/public/screenshots/desktop/6.png"/>
+<img src="/public/screenshots/desktop/7.png"/>
+<img src="/public/screenshots/desktop/8.png"/>
+<img src="/public/screenshots/desktop/9.png"/>
   
 </div>
