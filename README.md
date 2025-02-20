@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Technical analysis</h2>
-<ol type="i">
+<ol >
 <li><b>RESTful API Integration:</b> Seamlessly connect to RESTful APIs to manage both server state and global state.</li>
 <li><b>Supabase:</b> This is a powerful open-source alternative to Firebase, providing a suite of tools designed to build and scale applications.</li>
 <li><b>Tanstack React Query:</b> This library manages global state and server state, offering seamless integration with RESTful APIs, especially when connecting to Supabase.</li>
@@ -37,6 +37,6 @@
 </ol>
 
 <div>
-<img src="public/desktop/1.png"/>
+<img src="/public/desktop/1.png"/>
   
 </div>
