@@ -55,7 +55,7 @@
 <div>
   <p>Mobile light mode</p>
 <img src="/public/screenshots/mobile/1.png"/>
-<img src="/public/screenshots/mobile/2.png"/>
+<img src="/public/screenshots/desktop/2.png"/>
 <img src="/public/screenshots/mobile/3.png"/>
 <img src="/public/screenshots/mobile/4.png"/>
 <img src="/public/screenshots/mobile/5.png"/>
